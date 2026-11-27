@@ -29,7 +29,7 @@ I am a **Full-Stack Software Engineer & AI Engineer** specializing in architecti
 
 - 🏢 **Current Role:** **Full-Stack Developer** at **PT Dwi Putra Sakti** — engineering automated payroll & attendance (HRIS), supply chain tracking, and multi-warehouse inventory systems (`React.js`, `Django`, `Laravel`, `SQL`).
 - 🏛️ **Previous Experience:** **Back-End Web Developer** at **Biro Sistem Informasi & Digitalisasi UMM** — designing scalable **Academic Information System (SIAKAD)** RESTful APIs and **PostgreSQL** architectures with `Laravel`.
-- 🎓 **Education & Mentorship:** **B.Sc. in Informatics Engineering** from **University of Muhammadiyah Malang** (**GPA 3.88 / 4.00**) • Former **Laboratory Assistant & Treasurer** at Informatics & Infokom Labs UMM.
+- 🎓 **Education & Mentorship:** **Bachelor of Informatics Engineering (S.Kom.)** from **University of Muhammadiyah Malang** (**GPA 3.88 / 4.00**) • Former **Laboratory Assistant & Treasurer** at Informatics & Infokom Labs UMM.
 - 🧠 **Applied AI Focus:** End-to-end **YOLOv12** object detection, **PyTorch** deep learning, **Transformer NLP** (`BERT` / `DistilBERT`), **Explainable AI (XAI)**, and cybersecurity anomaly detection.
 
 ---
@@ -133,10 +133,10 @@ I am a **Full-Stack Software Engineer & AI Engineer** specializing in architecti
 | **Sep 2026 – Present** | **Full-Stack Developer** | **PT Dwi Putra Sakti** | Enterprise HRIS, automated payroll/attendance, supply chain & multi-warehouse inventory (`React`, `Django`, `Laravel`, `SQL`) |
 | **Jul 2025 – Sep 2026** | **Back-End Web Developer** | **Biro Sistem Informasi & Digitalisasi UMM** | Academic Information System (SIAKAD) RESTful APIs & relational database administration (`Laravel`, `PostgreSQL`) |
 | **Sep 2024 – Jul 2026** | **Laboratory Assistant & Treasurer** | **Informatics & Infokom Labs UMM** | Instructed CS & Python programming labs, mentored students in live debugging, and managed lab financial accountability |
-| **Sep 2022 – Aug 2026** | **B.Sc. in Informatics Engineering** | **University of Muhammadiyah Malang** | **GPA: 3.88 / 4.00** — Specialization in AI, Deep Learning, Computer Vision, NLP & Software Engineering |
+| **Sep 2022 – Aug 2026** | **Bachelor of Informatics Engineering (S.Kom.)** | **University of Muhammadiyah Malang** | **GPA: 3.88 / 4.00** — Specialization in AI, Deep Learning, Computer Vision, NLP & Software Engineering |
 
 ---
 
 <div align="center">
-  <sub>Built with precision by <b>Fitra Romeo Winky</b> • Explore full case studies at <a href="https://portfolio-fitra-romeo-winky.vercel.app/">portfolio-fitra-romeo-winky.vercel.app</a></sub>
+  <sub>Built with precision by <b>Fitra Romeo Winky, S.Kom.</b> • Explore full case studies at <a href="https://portfolio-fitra-romeo-winky.vercel.app/">portfolio-fitra-romeo-winky.vercel.app</a></sub>
 </div>
