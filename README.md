@@ -137,15 +137,6 @@ I am a **Full-Stack Software Engineer & AI Engineer** specializing in architecti
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitraaromeo&theme=tokyonight" alt="Fitra's GitHub Profile Summary" />
-  <img height="165" src="https://streak-stats.demolab.com?user=fitraaromeo&theme=tokyonight&hide_border=true&background=0B1120&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="Fitra's GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <sub>Built with precision by <b>Fitra Romeo Winky</b> • Explore full case studies at <a href="https://portfolio-fitra-romeo-winky.vercel.app/">portfolio-fitra-romeo-winky.vercel.app</a></sub>
 </div>
